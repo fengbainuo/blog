@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 冯白诺</title>
+    <link>https://fengbainuo.github.io/blog/posts/</link>
+    <description>Recent content in Posts on 冯白诺</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jun 2025 13:18:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://fengbainuo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>https://fengbainuo.github.io/blog/posts/intro/</link>
+      <pubDate>Thu, 12 Jun 2025 13:18:47 +0200</pubDate>
+      
+      <guid>https://fengbainuo.github.io/blog/posts/intro/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
