@@ -6,10 +6,25 @@
     <description>Recent content on 冯白诺</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 13:18:47 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 16:03:14 +0200</lastBuildDate>
     
 	<atom:link href="https://fengbainuo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joplin and Hugo</title>
+      <link>https://fengbainuo.github.io/blog/posts/joplin_hugo/</link>
+      <pubDate>Thu, 12 Jun 2025 16:03:14 +0200</pubDate>
+      
+      <guid>https://fengbainuo.github.io/blog/posts/joplin_hugo/</guid>
+      <description>&lt;h2 id=&#34;joplin--hugo&#34;&gt;Joplin + Hugo&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../../assets/pictures/joplin_hugo_title.png&#34; alt=&#34;joplin_hugo_title.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As the title suggests, this blog post is a test to see how to optimize my workflow of using Joplin the write my blog posts. Joplin is a powerful and free (as in freedom) note taking app (I recommend checking out their website at &lt;a href=&#34;https://joplinapp.org/&#34;&gt;joplinapp.org&lt;/a&gt;). Joplin uses the lightweight and popular markup language &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;../../assets/pictures/Markdown-mark.svg&#34; alt=&#34;Markdown-mark.svg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Intro</title>
