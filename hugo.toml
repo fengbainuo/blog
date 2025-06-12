@@ -1,0 +1,31 @@
+baseURL = 'https://fengbainuo.github.io/blog/'
+languageCode = 'en-us'
+title = '冯白诺'
+theme = 'hugo-theme-tokiwa'
+
+[params]
+useChineseFonts = true # for font Noto Serif etc.
+postDateFormat = "2006-1-2" # override custom date format posts.
+
+[menu]
+# Shown in the side menu
+  [[menu.main]]
+    name = "Posts"
+    weight = 1
+    identifier = "posts"
+    url = "/posts/"
+
+  [[menu.main]]
+    name = "Tags"
+    weight = 2
+    url = "/tags/"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[params.social]
+mastodon = "https://mstdn.social/@whitecold/"
+bluesky = "https://bsky.app/profile/whitecold.bsky.social"
+github = "https://github.com/fengbainuo/"
