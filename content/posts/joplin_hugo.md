@@ -6,12 +6,12 @@ title = 'Joplin and Hugo'
 
 ## Joplin + Hugo
 
-![joplin_hugo_title.png](../../assets/pictures/joplin_hugo_title.png)
+{{ with resources.Get "pictures/joplin_hugo_title.png" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+{{ end }}
 
 As the title suggests, this blog post is a test to see how to optimize my workflow of using Joplin the write my blog posts. Joplin is a powerful and free (as in freedom) note taking app (I recommend checking out their website at [joplinapp.org](https://joplinapp.org/)). Joplin uses the lightweight and popular markup language [Markdown](https://en.wikipedia.org/wiki/Markdown). 
-<div style="text-align: center">
 
-  ![Markdown-mark.svg](../../assets/pictures/Markdown-mark.svg)
+![Markdown-mark.svg](/images/Markdown-mark.svg)
 
-</div>
  Coincidentally, Hugo uses the same language to format the posts. Well, maybe it's not a coincidence that I want to write my blog posts in Joplin after all.
