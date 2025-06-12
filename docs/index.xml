@@ -18,11 +18,9 @@
       
       <guid>https://fengbainuo.github.io/blog/posts/joplin_hugo/</guid>
       <description>&lt;h2 id=&#34;joplin--hugo&#34;&gt;Joplin + Hugo&lt;/h2&gt;
-&lt;p&gt;{{ with resources.Get &amp;ldquo;pictures/joplin_hugo_title.png&amp;rdquo; }}
-&lt;!-- raw HTML omitted --&gt;
-{{ end }}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fengbainuo.github.io/blog/static/images/joplin_hugo_title.png&#34; alt=&#34;Title picture&#34;&gt;&lt;/p&gt;
 &lt;p&gt;As the title suggests, this blog post is a test to see how to optimize my workflow of using Joplin the write my blog posts. Joplin is a powerful and free (as in freedom) note taking app (I recommend checking out their website at &lt;a href=&#34;https://joplinapp.org/&#34;&gt;joplinapp.org&lt;/a&gt;). Joplin uses the lightweight and popular markup language &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://fengbainuo.github.io/blog/images/Markdown-mark.svg&#34; alt=&#34;Markdown-mark.svg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fengbainuo.github.io/blog/static/images/Markdown-mark.svg&#34; alt=&#34;Markdown-mark.svg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Coincidentally, Hugo uses the same language to format the posts. Well, maybe it&amp;rsquo;s not a coincidence that I want to write my blog posts in Joplin after all.&lt;/p&gt;
 </description>
     </item>
